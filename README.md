@@ -1,5 +1,5 @@
 # markhor
-
+https://github.com/gazebosim/gazebo-classic/issues/2910
 ## Installing dependencies
 You can use this command inside the `markhor_ws` to install the project dependencies. This might not take into account the Gazebo upgrade that we need to do to run the simulation correctly.
 `rosdep install --from-paths src --rosdistro melodic -y`
